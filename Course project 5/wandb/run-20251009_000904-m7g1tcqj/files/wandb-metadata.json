@@ -1,0 +1,33 @@
+{
+  "os":  "macOS-26.0.1-arm64-arm-64bit",
+  "python":  "CPython 3.11.13",
+  "startedAt":  "2025-10-09T05:09:04.582192Z",
+  "program":  "/Users/kourosh/Library/CloudStorage/OneDrive-Personal/AI-Bootcamp/Course project 5/GP-1.ipynb",
+  "codePath":  "Course project 5/GP-1.ipynb",
+  "codePathLocal":  "GP-1.ipynb",
+  "email":  "kyakourosh@gmail.com",
+  "root":  "/Users/kourosh/Library/CloudStorage/OneDrive-Personal/AI-Bootcamp/Course project 5",
+  "host":  "kouroshs-MacBook-Air.local",
+  "executable":  "/opt/anaconda3/envs/nlp-torch/bin/python",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "177509851136"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "apple":  {
+    "name":  "Apple M4",
+    "ecpuCores":  6,
+    "pcpuCores":  4,
+    "gpuCores":  10,
+    "memoryGb":  16,
+    "swapTotalBytes":  "5368709120",
+    "ramTotalBytes":  "17179869184"
+  },
+  "writerId":  "nlf15djskzg8mb3w65pspqikgratdc3j"
+}
